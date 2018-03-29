@@ -1,1 +1,9 @@
+#!/bin/bash
 
+#connect to a server
+
+telnet www.youtube.com
+
+# 
+GET / HTTP/1.0
+#
